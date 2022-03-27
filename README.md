@@ -5,7 +5,7 @@
 # Usege
 
 ```shell
-npm install https://github.com/bravekingzhang/hexo-asset-image --sa
+npm install https://github.com/brazhang/hexo-asset-image-master --sa
 ```
 
 # Example
